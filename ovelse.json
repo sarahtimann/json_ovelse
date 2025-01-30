@@ -1,0 +1,49 @@
+{
+  "personer": [
+    {
+      "navne": {
+        "fornavn": "Sarah",
+        "efternavn": "Timann"
+      },
+      "alder": 21,
+      "studerende": true,
+      "interesser": ["Design", "Medier", "Rejser"],
+      "adressse": {
+        "vej": "Dyrehavevej 27",
+        "by": "Hillerød",
+        "postnummer": 3400
+      },
+      "fødselsdato": "2003-03-37"
+    },
+    {
+      "navne": {
+        "formavn": "Clara",
+        "efternavn": "Wachmann"
+      },
+      "alder": 23,
+      "studerende": true,
+      "interesser": ["Design", "Medier", "Rejser"],
+      "adresse": {
+        "vej": "Stakkesund 5",
+        "by": "København",
+        "pstnummer": 2100
+      },
+      "fødselsdato": "2001-05-17"
+    },
+    {
+      "navne": {
+        "fornavn": "Tamara",
+        "efternavn": "Ujmajuridze"
+      },
+      "alder": 22,
+      "studerende": true,
+      "interesser": ["Venner", "Hygge", "Kreativitet"],
+      "adresse": {
+        "vej": "Frederikkevej 5",
+        "by": "Humlebæk",
+        "postnummer": "3050"
+      },
+      "fødselsdato": "2002-06-28"
+    }
+  ]
+}
